@@ -4,8 +4,11 @@ This project is a navigation aid for visually impaired individuals, designed to 
 
 Features:  
 -1.Obstacle detection using ultrasonic sensor
+
 -2.Audible (buzzer) and visual (LED) alerts
+
 -3.Simple Arduino-based code for easy deployment
+
 -4.Can be extended with IoT features like GPS, Bluetooth earphones, and smartphone integration
 
 Components
